@@ -1,7 +1,7 @@
 import openai
 import streamlit as st
 
-openai.api_key = "YOUR_OPENAI_API_KEY"
+openai.api_key = "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"
 
 def main():
     st.title("ChatGPT Streamlit App")
